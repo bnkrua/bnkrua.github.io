@@ -75,12 +75,11 @@ header #logo {
 
 #block-for-slider {
     width: 100%;
-    height: 440px;
 }
 
 #viewport {
 	margin-top: 13.5px;
-	height: 440px;
+	height: 350px;
 	width: 100%;
     position: relative;
     overflow: hidden;
