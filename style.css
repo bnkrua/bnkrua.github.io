@@ -34,7 +34,7 @@ header #logo {
 .menu a {
 	display: block;
 	padding: 0 60px;
-	line-height: 65px;
+	line-height: 50px;
 	color: black;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -59,7 +59,7 @@ header #logo {
 
 .menu ul li:hover ul {
 	display: inherit;
-	background-color: green;
+	background-color: #56ad2e;
 }
 
 .menu ul li:hover ul li {
@@ -78,7 +78,7 @@ header #logo {
 }
 
 #viewport {
-	margin-top: 13.5px;
+	margin-top: -1px;
 	height: 350px;
 	width: 100%;
     position: relative;
